@@ -1,5 +1,7 @@
 # chrome-extension-pause-page
 
+[View in Chrome Web Store](https://chrome.google.com/webstore/detail/aephmjhanjgbapahgbbkfhpianhbmeed).
+
 Instantly pause the page when DevTools is open using a keyboard shortcut.
 
 The default shortcut is <kbd>Ctrl + Shift + U</kbd> or <kbd>Command + Shift + U</kbd>. This can be re-assigned in extension settings.
