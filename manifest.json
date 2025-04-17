@@ -3,7 +3,7 @@
   "description": "Instantly pause the page when DevTools is open using a keyboard shortcut.",
   "permissions": ["activeTab", "scripting"],
   "manifest_version": 3,
-  "version": "1.0",
+  "version": "1.1",
   "background": {
     "service_worker": "background.js"
   },
